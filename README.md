@@ -10,16 +10,24 @@ The dataset used can be downloaded here - https://drive.google.com/drive/folders
 This dataset consists of 1378  images belonging to two classes:
 
 > with_mask: 690 images
+
 > without_mask: 686 images
 
 ## Required Libraries
 
 > tensorflow>=1.15.2
+
 > keras==2.3.1
+
 > imutils==0.5.3
+
 > numpy==1.18.2
+
 > opencv-python==4.2.0.*
+
 > matplotlib==3.2.1
+
 > argparse==1.1
+
 > scipy==1.4.1
 
