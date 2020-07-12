@@ -31,4 +31,16 @@ This dataset consists of 1378  images belonging to two classes:
 
 > scipy==1.4.1
 
-# Result Screenshots 
+## Result Screenshots 
+
+![Screenshot (34)](https://user-images.githubusercontent.com/49313619/87249143-fc874880-c47a-11ea-976f-830400244c25.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/49313619/87249186-2d677d80-c47b-11ea-9098-6faac81f9473.png)
+
+![Screenshot (38)](https://user-images.githubusercontent.com/49313619/87249222-5a1b9500-c47b-11ea-91f9-04146f28ef0a.png)
+
+## Video Stream Example
+
+![Screenshot (28)](https://user-images.githubusercontent.com/49313619/87249118-db265c80-c47a-11ea-85c2-1deef7744b3d.png)
+
+![Screenshot (33)](https://user-images.githubusercontent.com/49313619/87249129-eda09600-c47a-11ea-8fd7-f89d3ca0e452.png)
